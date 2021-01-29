@@ -4,6 +4,11 @@
   font-family: "Aniron";
 }
 
+@font-face {
+  src: url(../fonts/Trattatello.ttf);
+  font-family: "Trattatello";
+}
+
 /* Master styles */
 body {
     margin: 0px;
